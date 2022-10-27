@@ -1,1 +1,1 @@
-# javascript-projects
+# animated-navigation
