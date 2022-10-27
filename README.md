@@ -1,1 +1,1 @@
-# javascript-projects
+# light-dark-mode
