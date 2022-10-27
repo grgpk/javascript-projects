@@ -1,1 +1,1 @@
-# javascript-projects
+# infinite-scroll
